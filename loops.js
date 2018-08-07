@@ -13,3 +13,15 @@ function forLoop(arr){
   }
   return arr;
 }
+
+function whileLoop(num){
+  while (num == n){
+    if (n > 0){
+      console.log(--num);
+    }
+    else if (n === 0){
+      console.log("done");
+    }
+  }
+  return num;
+}
