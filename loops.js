@@ -24,5 +24,10 @@ function whileLoop(num){
 }
 
 function doWhileLoop(arr){
+  arr = arr - 1;
   
+  do {
+    console.log('Hey!')
+    
+  }
 }
