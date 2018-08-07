@@ -24,10 +24,6 @@ function whileLoop(num){
 }
 
 function doWhileLoop(arr){
-  var i = 0;
-  function incrementVariable() {
-    i = i + 1;
-  }
   do {
     arr.pop()
   }
