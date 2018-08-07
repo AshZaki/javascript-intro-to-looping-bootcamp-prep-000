@@ -24,8 +24,12 @@ function whileLoop(num){
 }
 
 function doWhileLoop(arr){
- 
-}
-function incrementVariable() {
-  i = i + 1;
+  var i = 0;
+  function incrementVariable() {
+    i = i + 1;
+  }
+  do {
+    arr.pop()
+  }
+  
 }
