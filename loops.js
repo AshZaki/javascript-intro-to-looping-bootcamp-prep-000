@@ -24,9 +24,7 @@ function whileLoop(num){
 }
 
 function doWhileLoop(arr){
-  do {
-    
-  }
+ 
 }
 function incrementVariable() {
   i = i + 1;
